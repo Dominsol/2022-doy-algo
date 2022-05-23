@@ -9,7 +9,7 @@
 |  | [• 그리디 알고리즘의 정당성](https://github.com/Dominsol/2022-doy-algo/issues/1#issuecomment-1126874230)|	`최적의 해` |
 | 구현 | [• 구현의 정의](https://github.com/Dominsol/2022-doy-algo/issues/2#issue-1245267375)  |  `알고리즘을 소스코드로 바꾸는 과정` `피지컬로 승부하기`|
 |  | [• 고려해야할 메모리 제약사항](https://github.com/Dominsol/2022-doy-algo/issues/2#issuecomment-1134759448)  | `C/C++에서 변수의 표현 범위` `파이썬에서 리스트크기` `채점 환경`  `파이썬 대신 Pypy3`  |
-|  |   |  |
+| DFS/BFS |   |  |
 |  |   |  |
 |  |   |  |
 
@@ -21,6 +21,6 @@
 | | `실버` | [- 11399 ATM](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM)<br>[- 11047 동전 0](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850) |
 | 구현|`브론즈` | | 
 |  | `실버`  |  |
-|  |   |  |
+| DFS/BFS   |   |  |
 |  |   |  |
 |  |   |  |
