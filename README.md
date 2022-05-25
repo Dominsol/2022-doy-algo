@@ -19,8 +19,8 @@
 | ---| ---| ---|
 |그리디 알고리즘 | `브론즈`  | [- 2839 설탕배달](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Bronze/2839.%E2%80%85%EC%84%A4%ED%83%95%E2%80%85%EB%B0%B0%EB%8B%AC)<br>[- 5585 거스름돈](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Bronze/5585.%E2%80%85%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88)|
 | | `실버` | [- 11399 ATM](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM)<br>[- 11047 동전 0](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850) |
-| 구현|`브론즈` |[-10171 고양이](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10171.%E2%80%85%EA%B3%A0%EC%96%91%EC%9D%B4) | 
-|  | `실버`  | [-2941 크로아티아 알파벳](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3) |
+| 구현|`브론즈` |[- 10171 고양이](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10171.%E2%80%85%EA%B3%A0%EC%96%91%EC%9D%B4) | 
+|  | `실버`  | [- 2941 크로아티아 알파벳](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3) |
 | DFS/BFS   |   |  |
 |  |   |  |
 |  |   |  |
