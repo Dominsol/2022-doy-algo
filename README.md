@@ -9,8 +9,8 @@
 |  | [• 그리디 알고리즘의 정당성](https://github.com/Dominsol/2022-doy-algo/issues/1#issuecomment-1126874230)|	`최적의 해` |
 | 구현 | [• 구현의 정의](https://github.com/Dominsol/2022-doy-algo/issues/2#issue-1245267375)  |  `알고리즘을 소스코드로 바꾸는 과정` `피지컬로 승부하기`|
 |  | [• 고려해야할 메모리 제약사항](https://github.com/Dominsol/2022-doy-algo/issues/2#issuecomment-1134759448)  | `C/C++에서 변수의 표현 범위` `파이썬에서 리스트크기` `채점 환경`  `파이썬 대신 Pypy3`  |
-| DFS/BFS |   |  |
-|  |   |  |
+| DFS/BFS | [• 꼭 필요한 자료구조기초](https://github.com/Dominsol/2022-doy-algo/issues/3#issue-1245306834)  | `스택` `큐` `재귀함수` |
+|  | [• 탐색 알고리즘 DFS/BFS](https://github.com/Dominsol/2022-doy-algo/issues/3#issuecomment-1139742375)  | `인접행렬` `인접리스트` `깊이우선탐색` `너비우선탐색` |
 |  |   |  |
 
 
