@@ -22,5 +22,5 @@
 | 구현|`브론즈` |[- 10171 고양이](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10171.%E2%80%85%EA%B3%A0%EC%96%91%EC%9D%B4) <br>[- 11721 10개씩 끊어 출력하기](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11721.%E2%80%85%EC%97%B4%E2%80%85%EA%B0%9C%EC%94%A9%E2%80%85%EB%81%8A%EC%96%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) | 
 |  | `실버`  | [- 2941 크로아티아 알파벳](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3) |
 | DFS/BFS   | `브론즈`  |  |
-|  |  `실버` |  |
+|  |  `실버` | [- 1260 DFS, BFS](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS) |
 |  |   |  |
