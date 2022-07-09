@@ -11,7 +11,10 @@
 |  | [• 고려해야할 메모리 제약사항](https://github.com/Dominsol/2022-doy-algo/issues/2#issuecomment-1134759448)  | `C/C++에서 변수의 표현 범위` `파이썬에서 리스트크기` <br> `채점 환경`  `파이썬 대신 Pypy3`  |
 | DFS/BFS | [• 꼭 필요한 자료구조기초](https://github.com/Dominsol/2022-doy-algo/issues/3#issue-1245306834)  | `스택` `큐` `재귀함수` |
 |  | [• 탐색 알고리즘 DFS/BFS](https://github.com/Dominsol/2022-doy-algo/issues/3#issuecomment-1139742375)  | `인접행렬` `인접리스트` `깊이우선탐색` `너비우선탐색` |
-|  |   |  |
+| 정렬  | [• 선택정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490041)  | `Selection Sort` |
+|  | [• 삽입정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490041)  | `Insertion Sort` | 
+|  | [• 퀵정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490041)  | `Quick Sort` | 
+|  | • 계수정렬 | `Count Sort` | 
 
 
 # 백준 풀이
@@ -21,6 +24,6 @@
 | | `실버` | [- 11399 ATM](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/11399.%E2%80%85ATM)<br>[- 11047 동전 0](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/11047.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%850) |
 | 구현|`브론즈` |[- 10171 고양이](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Bronze/10171.%E2%80%85%EA%B3%A0%EC%96%91%EC%9D%B4) <br>[- 11721 10개씩 끊어 출력하기](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Bronze/11721.%E2%80%85%EC%97%B4%E2%80%85%EA%B0%9C%EC%94%A9%E2%80%85%EB%81%8A%EC%96%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) | 
 |  | `실버`  | [- 2941 크로아티아 알파벳](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/2941.%E2%80%85%ED%81%AC%EB%A1%9C%EC%95%84%ED%8B%B0%EC%95%84%E2%80%85%EC%95%8C%ED%8C%8C%EB%B2%B3) |
-| DFS/BFS   | `브론즈`  |  |
-|  |  `실버` | [- 1260 DFS, BFS](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS) |
-|  |   |  |
+| DFS/BFS   |  `실버` | [- 1260 DFS, BFS](https://github.com/heydoy/BOJAlgorithmPython/tree/main/%EB%B0%B1%EC%A4%80/Silver/1260.%E2%80%85DFS%EC%99%80%E2%80%85BFS) |
+| 정렬 | `브론즈`  |  |
+|  |  |  |
