@@ -12,7 +12,7 @@
 | DFS/BFS | [• 꼭 필요한 자료구조기초](https://github.com/Dominsol/2022-doy-algo/issues/3#issue-1245306834)  | `스택` `큐` `재귀함수` |
 |  | [• 탐색 알고리즘 DFS/BFS](https://github.com/Dominsol/2022-doy-algo/issues/3#issuecomment-1139742375)  | `인접행렬` `인접리스트` `깊이우선탐색` `너비우선탐색` |
 | 정렬  | [• 선택정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490041)  | `Selection Sort` |
-|  | [• 삽입정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490041)  | `Insertion Sort` | 
+|  | [• 삽입정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490054)  | `Insertion Sort` | 
 |  | [• 퀵정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490070)  | `Quick Sort` | 
 |  | • 계수정렬 | `Count Sort` | 
 
