@@ -13,7 +13,7 @@
 |  | [• 탐색 알고리즘 DFS/BFS](https://github.com/Dominsol/2022-doy-algo/issues/3#issuecomment-1139742375)  | `인접행렬` `인접리스트` `깊이우선탐색` `너비우선탐색` |
 | 정렬  | [• 선택정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490041)  | `Selection Sort` |
 |  | [• 삽입정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490041)  | `Insertion Sort` | 
-|  | [• 퀵정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490041)  | `Quick Sort` | 
+|  | [• 퀵정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490070)  | `Quick Sort` | 
 |  | • 계수정렬 | `Count Sort` | 
 
 
