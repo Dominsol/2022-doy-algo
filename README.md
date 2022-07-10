@@ -14,7 +14,8 @@
 | 정렬  | [• 선택정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490041)  | `Selection Sort` |
 |  | [• 삽입정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490054)  | `Insertion Sort` | 
 |  | [• 퀵정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490070)  | `Quick Sort` | 
-|  | • 계수정렬 | `Count Sort` | 
+|  | [• 계수정렬](https://github.com/Dominsol/2022-doy-algo/issues/4#issuecomment-1179490075) | `Count Sort` | 
+|  | [• 파이썬의 정렬 라이브러리]() | `파이썬 정렬 라이브러리`  |
 
 
 # 백준 풀이
